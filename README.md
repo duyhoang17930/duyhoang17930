@@ -20,7 +20,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at duyhoang1793@gmail.com'll try to respond as soon as I can.\
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
+</br>
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -40,11 +40,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+</br>
 <p align="center">
 <a href="https://github.com/duyhoang17930">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duyhoang17930&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=duyhoang17930&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
