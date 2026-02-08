@@ -19,6 +19,8 @@
 🌱 &nbsp;I'm on track for learning more about Web, Mobile, and Artificial Intelligence.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at duyhoang1793@gmail.com'll try to respond as soon as I can.\
+&nbsp;
+</br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </br>
 ### 🛠 &nbsp;Tech Stack
@@ -43,15 +45,15 @@
 </br>
 <p align="center">
 <a href="https://github.com/duyhoang17930">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duyhoang17930&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duyhoang17930&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>&nbsp;&nbsp;
 <a href="https://github.com/duyhoang17930">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=duyhoang17930&theme=radical"/>
 </a>
 </p>
-<p>
+<p align="center">
  <a href="https://github.com/duyhoang17930">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duyhoang17930&theme=default"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duyhoang17930&theme=radical"/>
 </a>
 </p>
 
