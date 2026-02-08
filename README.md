@@ -45,6 +45,14 @@
 <a href="https://github.com/duyhoang17930">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duyhoang17930&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
+<a href="https://github.com/duyhoang17930">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=duyhoang17930&theme=radical"/>
+</a>
+</p>
+<p>
+ <a href="https://github.com/duyhoang17930">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duyhoang17930&theme=default"/>
+</a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
