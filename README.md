@@ -41,7 +41,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
- ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 </br>
 <p align="center">
 <a href="https://github.com/duyhoang17930"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duyhoang17930&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>&nbsp;&nbsp;
