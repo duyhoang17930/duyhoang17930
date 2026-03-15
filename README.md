@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,java,c,cpp,dart,flutter,react,ts,nextjs,tailwind,spring,html,css,git,github,docker,&perline=8)](https://skillicons.dev)
 
 
-#### ⚙️ &nbsp;GitHub Analytics
+##### ⚙️ &nbsp;GitHub Analytics
 </br>
 <p align="center">
 <a href="https://github.com/duyhoang17930"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duyhoang17930&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/></a>&nbsp;&nbsp;
